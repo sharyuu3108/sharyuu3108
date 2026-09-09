@@ -117,39 +117,14 @@ Interactive web platform that helps students **explore career paths, follow pers
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-
-<br/><br/>
-
-**Backend & Infra**
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-<br/><br/>
-
-**Cloud & Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb" />
-
-<br/><br/>
-
-**AI**
-
-<img src="https://skillicons.dev/icons?i=gemini" />
-
-<br/><br/>
-
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,canva" />
+| | |
+|---|---|
+| 💻 **Languages** | <img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" height="40"/> |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="40"/> |
+| ⚙️ **Backend & Infra** | <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> |
+| ☁️ **Cloud & Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb" height="40"/> |
+| 🤖 **AI** | ![Gemini](https://img.shields.io/badge/Google_Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white) ![ML](https://img.shields.io/badge/Machine_Learning-7dd3fc?style=for-the-badge&logoColor=black) ![GenAI](https://img.shields.io/badge/Generative_AI-7dd3fc?style=for-the-badge&logoColor=black) |
+| 🛠️ **Dev Tools** | <img src="https://skillicons.dev/icons?i=git,github,figma" height="40"/> ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 
 </div>
 
